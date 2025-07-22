@@ -51,7 +51,7 @@ I'm a DevOps engineer passionate about building resilient infrastructure, automa
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daraye-tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahirkhalif/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/daraye-tech)
 
 ---
