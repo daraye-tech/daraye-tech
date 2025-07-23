@@ -60,7 +60,7 @@ I'm a DevOps engineer passionate about building resilient infrastructure, automa
 - 🔗 [**MERN Docker Compose**](https://github.com/daraye-tech/MERN-docker-compose)  
   _Deploying a full MERN stack app with container orchestration and reverse proxy_
 
-- 🔗 [**Go Web App**](https://github.com/daraye-tech/Complete-DevOps-Implementation)  
+- 🔗 [**Complete-DevOps-Implementationp**](https://github.com/daraye-tech/Complete-DevOps-Implementation)  
   _Simple Golang server using net/http and Docker for containerization_
 
 ---
